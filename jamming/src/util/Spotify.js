@@ -1,6 +1,6 @@
 
 
-const clientID = '0c56d31390464b5dbe5fe8eede19fb56';
+const clientID = 'REMOVED FOR SAFETY';
 const redirectUri='http://localhost:3000';
 let accesToken;
 const Spotify = {
